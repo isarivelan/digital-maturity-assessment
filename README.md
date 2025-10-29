@@ -7,6 +7,7 @@ A comprehensive AI-powered assessment tool for evaluating organizational digital
 ![Next.js](https://img.shields.io/badge/next.js-14+-black.svg)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-green.svg)
 ![AppUI](https://github.com/isarivelan/digital-maturity-assessment/blob/main/Screenshot%202025-10-29%20135912.png)
+![UI2](https://github.com/isarivelan/digital-maturity-assessment/blob/main/Screenshot%202025-10-29%20135912.png)
 ## 🌟 Features
 
 - **Interactive AI Assessment**: Conversational AI-guided assessment using Azure OpenAI
